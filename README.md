@@ -187,11 +187,4 @@ export default function AiToursLanding() {
           <div className="mt-3 md:mt-0">Designed for Budget &amp; Smart Travelers</div>
         </div>
       </footer>
-    </div>
-  );
-}
-
-
-તૈયાર છે — મેં તમારા માટે AI Tours નું એક Single-file React લૅન્ડિંગ પેજ Git-like કોડ તરીકે બનાવ્યું છે અને તેનેarently-canvas પર મૂકી દીધું છે.
-તમારે હવે શું કરવું છે? (ઉદાહરણ: આને GitHub પર export કરવું, WordPress/Netlify પર deploy કરવા માટે બનાવટ, કે કોડમાં કોઈ ફેરફાર — બધા માટે હું મદદ કરીશ.)
-
+    </div
